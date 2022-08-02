@@ -298,4 +298,19 @@ hr{
     display: none;
 }
 }
+
+/* for medium sized screens form 950 px and down */
+
+@media screen and (max-width:90px) {
+    #menu{
+        clear:left;
+        float:left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+
+
+    }
+    
+}
     
